@@ -1,0 +1,15 @@
+# Compiled objects
+*.o
+
+# Executables
+main
+a.out
+
+# Editor / OS generated files
+.vscode/
+*.Zone.Identifier
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*~
