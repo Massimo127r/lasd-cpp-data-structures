@@ -34,6 +34,12 @@ All data structures support traversal, mapping, and folding operations as requir
 by the specifications.
 
 ## Design and Architecture
+The library relies on a complex hierarchy of abstract classes to ensure modularity.
+Below is a preview of the core container implementations (Vector, List, Set).
+
+[![Class Diagram Preview](diagram_preview.png)](ClassDiagram.pdf)
+
+> Click on the image (or [here](ClassDiagram.pdf)) to view the full hierarchy PDF including Heaps and Priority Queues.
 
 The library is organized around a hierarchy of abstract base classes defining
 shared container behavior, including:
