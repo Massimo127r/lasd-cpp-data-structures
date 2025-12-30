@@ -1,5 +1,6 @@
 # C++ Generic Data Structures Library
 
+[![C++ CI](https://github.com/Massimo127r/lasd-cpp-data-structures/actions/workflows/ci.yml/badge.svg)](https://github.com/Massimo127r/lasd-cpp-data-structures/actions/workflows/ci.yml)
 ![Language](https://img.shields.io/badge/language-C++-00599C.svg)
 ![Type](https://img.shields.io/badge/type-University%20Project-orange)
 
