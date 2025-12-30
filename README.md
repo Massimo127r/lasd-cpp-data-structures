@@ -51,7 +51,7 @@ to highlight different design trade-offs.
 - `vector/`, `list/`: linear data structures
 - `set/`: ordered set implementations
 - `heap/`, `pq/`: heap and priority queue
-- `zlasdtest/`: official test suite provided by the course author
+- `zlasdtest/`: official test suite provided with the course
 - `zmytest/`: additional custom tests
 
 ## Build and Execution
